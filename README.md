@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0046-permutations](https://github.com/KimGiii/Algorithm/tree/master/0046-permutations) |
 | [0200-number-of-islands](https://github.com/KimGiii/Algorithm/tree/master/0200-number-of-islands) |
 ## Depth-First Search
 |  |
@@ -56,4 +57,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/KimGiii/Algorithm/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0046-permutations](https://github.com/KimGiii/Algorithm/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
