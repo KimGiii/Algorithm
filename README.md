@@ -27,4 +27,24 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/KimGiii/Algorithm/tree/master/0316-remove-duplicate-letters) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/KimGiii/Algorithm/tree/master/1159-smallest-subsequence-of-distinct-characters) |
+## Array
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/KimGiii/Algorithm/tree/master/0200-number-of-islands) |
+## Depth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/KimGiii/Algorithm/tree/master/0200-number-of-islands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/KimGiii/Algorithm/tree/master/0200-number-of-islands) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/KimGiii/Algorithm/tree/master/0200-number-of-islands) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/KimGiii/Algorithm/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
