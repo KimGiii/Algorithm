@@ -1,24 +1,21 @@
 class Solution:
     def findItinerary(self, tickets: List[List[str]]) -> List[str]:
-        # 중복된 일정의 경우 어휘순으로 방문
-        # 그래프 구성
-        # sorted() 함수로 정렬
-        # 이후 pop()으로 재귀 호출하면서 모두 꺼내 결과에 추가
-
+        # pop()은 O(1)이지만 pop(0)는 O(n)
+        # 좀 더 효율적인 구현을 위해, pop() 즉 스택의 연산으로 처리
+        # 그래프를 역순으로 구성
         graph = collections.defaultdict(list)
 
-        for a, b in sorted(tickets):
+        for a, b in sorted(tickets, reverse=True):
             graph[a].append(b)
 
         route = []
 
         def dfs(a):
             while graph[a]:
-                dfs(graph[a].pop(0))
+                dfs(graph[a].pop())
             route.append(a)
 
         dfs('JFK')
-        # 어휘 순으로 결과 출력
         result = route[::-1]
 
         return result
