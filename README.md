@@ -41,11 +41,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/KimGiii/Algorithm/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/KimGiii/Algorithm/tree/master/0207-course-schedule) |
 | [0332-reconstruct-itinerary](https://github.com/KimGiii/Algorithm/tree/master/0332-reconstruct-itinerary) |
+| [0744-network-delay-time](https://github.com/KimGiii/Algorithm/tree/master/0744-network-delay-time) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/KimGiii/Algorithm/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/KimGiii/Algorithm/tree/master/0207-course-schedule) |
+| [0744-network-delay-time](https://github.com/KimGiii/Algorithm/tree/master/0744-network-delay-time) |
 ## Union Find
 |  |
 | ------- |
@@ -74,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0207-course-schedule](https://github.com/KimGiii/Algorithm/tree/master/0207-course-schedule) |
 | [0332-reconstruct-itinerary](https://github.com/KimGiii/Algorithm/tree/master/0332-reconstruct-itinerary) |
+| [0744-network-delay-time](https://github.com/KimGiii/Algorithm/tree/master/0744-network-delay-time) |
 ## Eulerian Circuit
 |  |
 | ------- |
@@ -82,4 +85,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/KimGiii/Algorithm/tree/master/0207-course-schedule) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/KimGiii/Algorithm/tree/master/0744-network-delay-time) |
+## Shortest Path
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/KimGiii/Algorithm/tree/master/0744-network-delay-time) |
 <!---LeetCode Topics End-->
