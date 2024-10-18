@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0039-combination-sum](https://github.com/KimGiii/Algorithm/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/KimGiii/Algorithm/tree/master/0046-permutations) |
+| [0078-subsets](https://github.com/KimGiii/Algorithm/tree/master/0078-subsets) |
 | [0200-number-of-islands](https://github.com/KimGiii/Algorithm/tree/master/0200-number-of-islands) |
 ## Depth-First Search
 |  |
@@ -60,4 +61,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0017-letter-combinations-of-a-phone-number](https://github.com/KimGiii/Algorithm/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/KimGiii/Algorithm/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/KimGiii/Algorithm/tree/master/0046-permutations) |
+| [0078-subsets](https://github.com/KimGiii/Algorithm/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/KimGiii/Algorithm/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
